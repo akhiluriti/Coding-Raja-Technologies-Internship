@@ -1,0 +1,16 @@
+{
+  "income": [
+    {
+      "date": "2024-03-14 15:05:14",
+      "category": "income",
+      "amount": 10.0
+    }
+  ],
+  "expenses": [
+    {
+      "date": "2024-03-14 15:05:29",
+      "category": "expenses",
+      "amount": 5.0
+    }
+  ]
+}
